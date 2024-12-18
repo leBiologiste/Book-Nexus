@@ -345,12 +345,13 @@ h2{
 
             .parfum-image {
                 max-width: 200px;
-           margin-left:150px;
+           margin-left:350px;
             }
 
             .parfum-link {
                 padding: 6px 12px;
                 font-size: 12px;
+                margin-left:300px;
             }
         }
 
