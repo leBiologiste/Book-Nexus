@@ -65,7 +65,7 @@ body {
 }
 
 .dropdown-menu li {
-    margin: 0;
+    margin: 10px;
 }
 
 .dropdown-menu li a {
@@ -345,7 +345,7 @@ h2{
 
             .parfum-image {
                 max-width: 200px;
-           margin-left:100px;
+           margin-left:150px;
             }
 
             .parfum-link {
