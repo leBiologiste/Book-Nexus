@@ -58,7 +58,7 @@ body {
     display: none;
     position: absolute;
     background-color: #444;
-    margin-top: 10px;
+    margin-top: 50px;
     padding: 10px 0;
     list-style: none;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -351,7 +351,7 @@ h2{
             .parfum-link {
                 padding: 6px 12px;
                 font-size: 12px;
-                margin-left:300px;
+                margin-left:800px;
             }
         }
 
